@@ -30,3 +30,5 @@ d. Clone the repository and go to the directory e. Run the app in local using co
 ![Screenshot (5)](https://user-images.githubusercontent.com/74641501/115662067-12a42c80-a35c-11eb-922d-ec068c30e8eb.png)
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/74641501/115662337-76c6f080-a35c-11eb-9758-3b38f73ffb99.png)
+
+http:13.234.37.178:8085/
