@@ -11,6 +11,7 @@
 # Steps
 a. Install awscli b. Open the terminal and enter the following command aws --configure c. Install flask
 d. Clone the repository and go to the directory e. Run the app in local using command python3 app.py
+![Screenshot (7)](https://user-images.githubusercontent.com/74641501/115678668-610ef680-a36f-11eb-84b7-23bd8480ff4a.png)
 
 
 # Open an ec2-instance and while creating the instance keep ssh port as it is and add new rule as custom TCP and port 8085 to allow traffic
